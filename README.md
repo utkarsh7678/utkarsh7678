@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/08/26/29/79/360_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.jpg">
